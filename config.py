@@ -3,7 +3,7 @@ from os import getenv
 # ---------------R---------------------------------
 API_ID = int(os.environ.get("API_ID", "20831039"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH", "8075567864:AAHHCKNboLYuN4gq3_RjS_6cnzGtvZC46kw")
+API_HASH = os.environ.get("API_HASH", "ea20b722f7af827db12fb85f4d55238c")
 # ----------------D--------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # -----------------A-------------------------------
